@@ -1,5 +1,5 @@
 {
-    "Name": "A high-quality EEG dataset for studying visual touch perception",
+    "Name": "A comprehensive EEG dataset for investigating\nvisual touch perception",
     "BIDSVersion": "1.0.0",
     "DatasetType": "raw",
     "License": "CC0",
